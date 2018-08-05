@@ -1,9 +1,6 @@
 # Python Multithreadig and Multiprocessing 
 
 
-I've used this in the <a href="">Wikipedia Crawler</a>, check it out <a href="">here</a> or you can see the code in this repository.<br>
-
-
 here are the resources I used:
 <ul>
 	<li>https://www.youtube.com/playlist?list=PLeo1K3hjS3uub3PRhdoCTY8BxMKSW7RjN</li>
